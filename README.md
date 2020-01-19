@@ -1,4 +1,4 @@
-The code is based on Steven Grider course in Udemy with some changes and code styling improvements.
+The code is based on Steven Grider course in Udemy with some changes and code styling improvements. Unfortunately, as it uses Google+ API it causes problems lately because of some dependencies that are not installed/updated.
 
 The application is deployed on a Heroku server: https://mysterious-hollows-65412.herokuapp.com where you can try out its full functionality.
 
