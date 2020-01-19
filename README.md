@@ -1,3 +1,5 @@
+The code is based on Steven Grider course in Udemy with some changes and code styling improvements.
+
 The application is deployed on a Heroku server: https://mysterious-hollows-65412.herokuapp.com where you can try out its full functionality.
 
 # How to use the downloaded files
