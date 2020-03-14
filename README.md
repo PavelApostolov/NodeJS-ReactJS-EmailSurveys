@@ -1,4 +1,4 @@
-The code is based on Steven Grider course in Udemy with some changes and code styling improvements. Unfortunately, as it uses Google+ API it causes problems lately because of some dependencies that are not installed/updated.
+The code is based on Steven Grider course in Udemy with some changes and code styling improvements.
 
 The application is deployed on a Heroku server: https://mysterious-hollows-65412.herokuapp.com where you can try out its full functionality.
 
@@ -22,7 +22,10 @@ This is a web application with NodeJS for backend (incl. ExpressJS, Passport, OA
 
 5.A list with your surveys appears on the page if you are logged in (I am using Mongoose queries for this part).
 
-Screenshots
+Screenshots:
+
 ![1](https://user-images.githubusercontent.com/13184341/76682017-0e59fb80-6601-11ea-96d3-04d04e789631.PNG)
+
 ![2](https://user-images.githubusercontent.com/13184341/76682021-10bc5580-6601-11ea-9096-ed889a381ce6.PNG)
+
 ![3](https://user-images.githubusercontent.com/13184341/76682022-11ed8280-6601-11ea-96e4-a7eace000490.PNG)
