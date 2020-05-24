@@ -5,7 +5,8 @@ The application is deployed on a Heroku server: https://mysterious-hollows-65412
 # How to use the downloaded files
 
 1) Run "npm install" in the extracted folder to install all dependenices
-2) Run "npm run dev" to view the project in the browser 
+2) Run "npm run dev" to view the project in the browser. **This is the general approach but it won't quite work here because dev.js file was not committed due to containing sensitive data (keys).**
+
 NB: I am using the "concurrently" library so that Express server and React dev server communicate properly
 
 # How does it work
